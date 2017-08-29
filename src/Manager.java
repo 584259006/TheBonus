@@ -1,7 +1,7 @@
 
 public class Manager extends Employee {
 	Manager(){
-		System.out.print("ผู้จัดการ ");
+		System.out.print("Manager ");
 		bonusCalculator = new Generous();
 	}
 	

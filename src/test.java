@@ -3,11 +3,11 @@ public class test {
 
 	public static void main(String[] args) {
 		Manager m1 = new Manager();
-		m1.setB(100000);
+		m1.setB(30000);
 		Secretary s1 = new Secretary();
-		s1.setB(100000);
+		s1.setB(25000);
 		Programmer p1 = new Programmer();
-		p1.setB(100000);
+		p1.setB(45000);
 
 	}
 
